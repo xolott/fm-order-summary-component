@@ -2,7 +2,7 @@ import Card from "./Card";
 import Button from "./Button";
 import illustrationHero from "../assets/img/illustration-hero.svg";
 import styled from "styled-components";
-import PlanSelector from "./PlanSelector";
+import PlanSelector from "./PlamSelector";
 
 const OrderSummaryCardStyled = styled(Card)`
   max-width: 450px;
@@ -16,7 +16,7 @@ const OrderSummaryTitle = styled.h1`
   color: hsl(223, 47%, 23%);
   margin: 8px 0;
   font-size: 1.8rem;
-  @media only screen and (max-width: 450px) {
+  @media only screen and (max-width: 768px) {
     font-size: 22px;
   }
 `;
@@ -26,7 +26,7 @@ const OrderSummaryCardContent = styled.div`
   flex-direction: column;
   padding: 40px;
   align-items: center;
-  @media only screen and (max-width: 450px) {
+  @media only screen and (max-width: 768px) {
     padding: 24px;
   }
   > p {
@@ -37,7 +37,7 @@ const OrderSummaryCardContent = styled.div`
     color: hsl(224, 23%, 55%);
   }
   .cancel-order {
-    margin: 24px 0 0px 0;
+    margin: 24px 0 8px 0;
     font-size: 0.95rem;
     font-weight: 900;
     color: hsl(224, 23%, 55%);
@@ -46,8 +46,8 @@ const OrderSummaryCardContent = styled.div`
     &:hover {
       color: black;
     }
-    @media only screen and (min-width: 450px) {
-      margin-bottom: 8px;
+    @media only screen and (max-width: 768px) {
+      margin-bottom: 0px;
     }
   }
 `;

@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitLab Repository](https://gitlab.com/josetruyol/fm-order-summary-component)
+- Live Site URL: [GitLab Page](https://josetruyol.gitlab.io/fm-order-summary-component/)
 
 ## My process
 
