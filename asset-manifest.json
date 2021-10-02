@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fm-order-summary-component/static/css/main.1914917c.chunk.css",
+    "main.js": "/fm-order-summary-component/static/js/main.0083c7a0.chunk.js",
+    "main.js.map": "/fm-order-summary-component/static/js/main.0083c7a0.chunk.js.map",
+    "runtime-main.js": "/fm-order-summary-component/static/js/runtime-main.af34c5de.js",
+    "runtime-main.js.map": "/fm-order-summary-component/static/js/runtime-main.af34c5de.js.map",
+    "static/js/2.81da7900.chunk.js": "/fm-order-summary-component/static/js/2.81da7900.chunk.js",
+    "static/js/2.81da7900.chunk.js.map": "/fm-order-summary-component/static/js/2.81da7900.chunk.js.map",
+    "static/js/3.54f417c8.chunk.js": "/fm-order-summary-component/static/js/3.54f417c8.chunk.js",
+    "static/js/3.54f417c8.chunk.js.map": "/fm-order-summary-component/static/js/3.54f417c8.chunk.js.map",
+    "index.html": "/fm-order-summary-component/index.html",
+    "static/css/main.1914917c.chunk.css.map": "/fm-order-summary-component/static/css/main.1914917c.chunk.css.map",
+    "static/js/2.81da7900.chunk.js.LICENSE.txt": "/fm-order-summary-component/static/js/2.81da7900.chunk.js.LICENSE.txt",
+    "static/media/icon-music.f20c7787.svg": "/fm-order-summary-component/static/media/icon-music.f20c7787.svg",
+    "static/media/illustration-hero.73032583.svg": "/fm-order-summary-component/static/media/illustration-hero.73032583.svg",
+    "static/media/pattern-background-desktop.5a0ab689.svg": "/fm-order-summary-component/static/media/pattern-background-desktop.5a0ab689.svg",
+    "static/media/pattern-background-mobile.c8d50fcb.svg": "/fm-order-summary-component/static/media/pattern-background-mobile.c8d50fcb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af34c5de.js",
+    "static/js/2.81da7900.chunk.js",
+    "static/css/main.1914917c.chunk.css",
+    "static/js/main.0083c7a0.chunk.js"
+  ]
+}
