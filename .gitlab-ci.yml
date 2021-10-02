@@ -1,7 +1,7 @@
 stages:
   - deploy
 
-page:
+pages:
   stage: deploy
   image: node:lts
   script:
