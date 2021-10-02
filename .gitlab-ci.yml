@@ -1,0 +1,14 @@
+stages:
+  - deploy
+
+page:
+  stage: deploy
+  image: node:lts
+  script:
+   - yarn
+   - yarn build
+   - mv public/ public-old/
+   - build/ public/
+  artifacts:
+   paths:
+     - public
